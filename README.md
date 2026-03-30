@@ -49,7 +49,7 @@ It handles product management, cart operations, order processing, payment handli
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Teja_Ecommerce_Order_Engine_Hackathon.git
+https://github.com/vengalaraogudipati/Gudipati-Vengalarao_Ecommerce_Order_Engine_Hackathon
 ```
 
 ### 2. Configure MySQL
